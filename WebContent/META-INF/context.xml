@@ -1,0 +1,10 @@
+<Context>
+
+  <Resource name="jdbc/todomvc_es6_java_eclipse_project" 
+  			auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="5" maxWait="10000"
+               username="" password="cHpjk.Dh>x9JC3(bD6" 
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:postgresql://localhost:5432/TodoMVC?useSSL=false"/>
+
+</Context>
